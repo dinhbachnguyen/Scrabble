@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/USER/Desktop/Projet info/scrabble/Function.c
+Function.h
+C:/Users/USER/Desktop/Projet info/scrabble/Function.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/USER/Desktop/Projet info/scrabble/Function.h
+
